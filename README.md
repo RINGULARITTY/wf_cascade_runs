@@ -1,25 +1,24 @@
-
 # Warframe Cascade Run Analysis
 
 ## Total Exolisers
-- **1712** exolisers collected over **13** (~131 average).
+- **2064** exolisers collected over **15** runs (~137 average).
 
 ## Exos by Warframe
 | warframe   |   total_exos |   total_runs |   mean_exos_per_run |
 |:-----------|-------------:|-------------:|--------------------:|
-| Ash        |         1261 |            9 |             140.111 |
-| Saryn      |          451 |            4 |             112.75  |
+| Ash        |         1048 |            7 |             149.714 |
+| Saryn      |         1016 |            8 |             127     |
 
 ## Exos by Role
 | role   |   total_exos |
 |:-------|-------------:|
-| Def    |          919 |
-| Atk    |          793 |
+| Atk    |         1246 |
+| Def    |          818 |
 
 ## Exos by Main Weapon
 | main_weapon   |   total_exos |
 |:--------------|-------------:|
-| Magistar      |         1482 |
+| Magistar      |         1834 |
 | Dualtoxo      |          230 |
 
 ## Visualizations
@@ -28,4 +27,4 @@
 
 ---
 
-*Report generated on 2024-11-06 18:15:22*
+*Report generated on 2024-11-11 00:39:06*
